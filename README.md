@@ -17,7 +17,7 @@ Options:
 For example:
 
 ```
-CPPAuthExample -authurl "http://localhost:8443/getToken" -username authuse1 -password password -service ELEKTRON_DD -item PTT.BK
+CPPAuthExample -authurl "http://localhost:8443/getToken" -username authuser1 -password password -service ELEKTRON_DD -item PTT.BK
 ```
 The output is:
 
