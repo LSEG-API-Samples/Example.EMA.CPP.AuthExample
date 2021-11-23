@@ -90,11 +90,11 @@ void printUsage()
 {
 	cout << "\nOptions:\n"
 		<< "  -?                            Shows this usage\n\n"
-		<< "  -authurl <authurl>    Required: Authentication URL to get a token (e.g. http://<AuthServer>:8443/getToken) \n"
-		<< "  -username <username>    Required: Username \n"
+		<< "  -authurl <authurl>            Required: Authentication URL to get a token (e.g. http://<AuthServer>:8443/getToken) \n"
+		<< "  -username <username>          Required: Username \n"
 		<< "  -password <password>          Required: Password\n"
-		<< "  -service <service name>    Required: Service name\n"
-		<< "  -item <ric>    Optional: A RIC\n"
+		<< "  -service <service name>       Required: Service name\n"
+		<< "  -item <ric>                   Optional: A RIC\n"
 		<< "\n";
 	exit( -1 );
 }
