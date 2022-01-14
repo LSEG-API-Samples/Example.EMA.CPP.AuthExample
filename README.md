@@ -1,5 +1,5 @@
 # EMA C++ UserAuthn Authentication Example
-This EMA C++ example demonstrates how to get tokens from a token generate and use retrieved tokens to login to ADS. For more information, please refer to this article. 
+This EMA C++ example demonstrates how to get tokens from a token generate and use retrieved tokens to login to ADS. For more information, please refer to [this article](https://developers.refinitiv.com/en/article-catalog/article/dacs-userauthn-authentication). 
 
 The example uses the **curl** library to get tokens and uses **cJSON** to parse response messages. 
 
